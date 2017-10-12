@@ -1,0 +1,15 @@
+{
+    "title": "New Testing Project",
+    "baseURL": "https:\/\/project10.tvpage.com\/project10",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/project10",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpage.com"
+    }
+}
